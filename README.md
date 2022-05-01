@@ -1,1 +1,1 @@
-# obchodna60
+# obchodna60sk
