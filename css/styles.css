@@ -203,7 +203,8 @@ img {
 
 .language {
   position:relative;
-  vertical-align: middle;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 svg {
