@@ -205,7 +205,6 @@ img {
 }
 
 .language {
-  height: 12px;
   position:relative;
   top: 50%;
   transform: translateY(-50%);
