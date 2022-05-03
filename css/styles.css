@@ -199,12 +199,10 @@ figure {
 img {
   vertical-align: middle;
   border-style: none;
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
 }
 
 .language {
+  height: 12px;
   position:relative;
   top: 50%;
   transform: translateY(-50%);
